@@ -1,0 +1,68 @@
+[2024-11-08 13:44:18,846: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-11-08 13:44:18,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-08 13:44:18,852: INFO: common: created directory at: artifacts]
+[2024-11-08 13:44:18,853: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-08 13:46:09,635: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-11-08 13:46:09,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-08 13:46:09,640: INFO: common: created directory at: artifacts]
+[2024-11-08 13:46:09,641: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-08 13:46:12,940: INFO: 2540966342: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EA10:DAA91:22CC15:2AFAFE:672DC8CA
+Accept-Ranges: bytes
+Date: Fri, 08 Nov 2024 08:16:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21727-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1731053771.762890,VS0,VE697
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3ff4437d76836ccb5cb287a5925b5c202bb2e53a
+Expires: Fri, 08 Nov 2024 08:21:11 GMT
+Source-Age: 0
+
+]
+[2024-11-08 14:04:59,029: INFO: main: stage Data Ingestion Stage initiated]
+[2024-11-08 14:04:59,029: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-11-08 14:04:59,030: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-08 14:04:59,030: INFO: common: created directory at: artifacts]
+[2024-11-08 14:04:59,030: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-08 14:05:01,761: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EA10:DAA91:22CC15:2AFAFE:672DC8CA
+Accept-Ranges: bytes
+Date: Fri, 08 Nov 2024 08:35:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21742-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1731054900.050467,VS0,VE321
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7f35d74d12a27548c20816d0b07cf873c3ff3bd8
+Expires: Fri, 08 Nov 2024 08:40:00 GMT
+Source-Age: 0
+
+]
+[2024-11-08 14:05:01,866: INFO: main: Stage Data Ingestion Stage completef]
